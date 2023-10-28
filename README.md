@@ -14,7 +14,7 @@ Soy un desarrollador de software con experiencia en múltiples tecnologías. Me 
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y mejores prácticas.
 - 👯 Busco colaborar en proyectos interesantes y desafiantes.
 - 💬 Pregúntame sobre Python, Flask, C#, Unity, SQL, HTML y CSS.
-- 📫 Cómo contactarme: [tu_email@example.com](mailto:playgames.j.g17@gmail.com)
+- 📫 Cómo contactarme: [playgames.j.g17@gmail.com](mailto:playgames.j.g17@gmail.com)
 
 ## Tecnologías y Herramientas 🛠️
 <div align="center">
