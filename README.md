@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="tu_imagen_banner.jpg" alt="Javier Perez - Desarrollador de Software">
+  <img src="banner-inicio-eljega.png" alt="Javier Perez - Desarrollador de Software">
 </div>
 
 <h1 align="center">Hola, soy Javier Perez 👋</h1>
