@@ -10,7 +10,7 @@
 ## Sobre Mí 🚀
 Soy un desarrollador de software con experiencia en múltiples tecnologías. Me encanta crear soluciones innovadoras y eficientes. Aquí encontrarás algunos de mis proyectos y colaboraciones.
 
-- 🔭 Actualmente estoy trabajando en [Nombre del Proyecto](link_al_proyecto).
+- 🔭 Actualmente estoy trabajando en [PicOptimizer]([link_al_proyecto](https://picoptimizer.1.us-1.fl0.io)).
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y mejores prácticas.
 - 👯 Busco colaborar en proyectos interesantes y desafiantes.
 - 💬 Pregúntame sobre Python, Flask, C#, Unity, SQL, HTML y CSS.
