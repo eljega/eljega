@@ -18,7 +18,7 @@ Soy un desarrollador de software con experiencia en múltiples tecnologías. Me 
 
 ## Tecnologías y Herramientas 🛠️
 <div align="center">
-  <img src="icono_python.png" alt="Python" width="40" height="40"/>
+  <img src="images/python.webp" alt="Python" width="40" height="40"/>
   <img src="icono_flask.png" alt="Flask" width="40" height="40"/>
   <img src="icono_csharp.png" alt="C#" width="40" height="40"/>
 </div>
