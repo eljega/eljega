@@ -4,7 +4,7 @@
 
 <h1 align="center">Hola, soy Javier Perez 👋</h1>
 <p align="center">
-  Desarrollador de Software apasionado por Python, Flask, C#, HTML, CSS, Unity y SQL.
+  Desarrollador de Software apasionado por Python, Django, Flask, C#, Docker, HTML, CSS, Unity, SQL, PostgreSQL, MySQL.
 </p>
 
 ## Sobre Mí 🚀
@@ -13,7 +13,7 @@ Soy un desarrollador de software con experiencia en múltiples tecnologías. Me 
 - 🔭 Actualmente estoy trabajando en [PicOptimizer]([link_al_proyecto](https://picoptimizer.1.us-1.fl0.io)).
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y mejores prácticas.
 - 👯 Busco colaborar en proyectos interesantes y desafiantes.
-- 💬 Pregúntame sobre Python, Flask, C#, Unity, SQL, HTML y CSS.
+- 💬 Pregúntame sobre Python, Django, Flask, C#, Docker, HTML, CSS, Unity, SQL, PostgreSQL, MySQL.
 - 📫 Cómo contactarme: [playgames.j.g17@gmail.com](mailto:playgames.j.g17@gmail.com)
 
 ## Tecnologías y Herramientas 🛠️
