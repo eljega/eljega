@@ -39,8 +39,8 @@ Lidero y construyo soluciones reales, desde asistentes con IA hasta generadores 
 - [WuWeiClip](https://wuweiclip.com) – Plataforma de generación automática de videos con IA.
 - [PsicoAliado](https://psicoaliado.com) – Asistente emocional con procesamiento de lenguaje natural.
 - [NarrArte](https://play.google.com/store/apps/details?id=com.narrarte) – App infantil para crear cuentos con voz e ilustraciones.
-- [PostAI]([https://play.google.com/store/apps/details?id=com.ejsoftware.postai](https://play.google.com/store/apps/details?id=com.postai.app&pcampaignid=web_share)) – Generador de flyers y contenido visual con IA.
-- [NosOtros]([https://play.google.com/store/apps/details?id=com.ejsoftware.nosotros](https://play.google.com/store/apps/details?id=com.nosotros.voz&pcampaignid=web_share)) – Red social experimental de conexión emocional.
+- [PostAI](https://play.google.com/store/apps/details?id=com.postai.app&pcampaignid=web_share) – Generador de flyers y contenido visual con IA.
+- [NosOtros](https://play.google.com/store/apps/details?id=com.nosotros.voz&pcampaignid=web_share) – Red social experimental de conexión emocional.
 - [PythonEnAccion](https://github.com/eljega/PythonEnAccion) – Scripts de automatización, scraping, IA y más en Python.
 
 ## Contacto 📬
